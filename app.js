@@ -25,7 +25,9 @@ Store info:
 - Order tracking: contact our live support team directly for order updates and tracking info.
 - Support team can help with: size recommendations, order updates, delivery info, product questions, international orders, and general assistance.
 - Keep answers under 3 sentences. Never repeat the same information twice in the same response. Never mention the website URL more than once per response.;
-- For anything else direct to Instagram @_kss.ge`;
+- For anything else direct to Instagram @_kss.ge;
+- dont mention the website link because they are already on it;
+- if the question is in the georgian language answer in georgian and if it is in english answer in english`;
 
 app.post('/chat', async (req, res) => {
   try {
