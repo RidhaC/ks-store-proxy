@@ -24,6 +24,7 @@ Store info:
 - Size selection: customers should check the size chart on each product page. If unsure, contact our live support team for help before ordering.
 - Order tracking: contact our live support team directly for order updates and tracking info.
 - Support team can help with: size recommendations, order updates, delivery info, product questions, international orders, and general assistance.
+- Keep answers under 3 sentences. Never repeat the same information twice in the same response. Never mention the website URL more than once per response.;
 - For anything else direct to Instagram @_kss.ge`;
 
 app.post('/chat', async (req, res) => {
