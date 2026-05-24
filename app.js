@@ -38,7 +38,7 @@ app.post('/chat', async (req, res) => {
       body: JSON.stringify({
         model: 'claude-haiku-4-5',
         max_tokens: 500,
-        system: baseInfo + ' Delivery is available within Georgia only. Customers in Georgia should order through kss.ge.',
+        system: baseInfo + ' You are on the GEORGIA store (kss.ge). Only talk about Georgia delivery. Always tell customers to order through kss.ge. Never mention ksstore.ge to Georgia customers. Use the ₾ symbol for all prices.',
         messages: req.body.messages
       })
     });
@@ -61,7 +61,7 @@ app.post('/chat-global', async (req, res) => {
       body: JSON.stringify({
         model: 'claude-haiku-4-5',
         max_tokens: 500,
-        system: baseInfo + ' This is the worldwide store. Worldwide shipping is available. International customers should order through ksstore.ge.',
+        system: baseInfo + ' You are on the WORLDWIDE store (ksstore.ge). Only talk about worldwide/international delivery. Always tell customers to order through ksstore.ge. Never mention kss.ge to worldwide customers. Use the ₾ symbol for all prices.',
         messages: req.body.messages
       })
     });
