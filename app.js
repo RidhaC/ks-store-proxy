@@ -19,7 +19,7 @@ Store info:
 - Contact: Instagram @_kss.ge, Facebook: KSS.GE.Official, TikTok: @ks__store
 - Brands: RDX, Asics, Venum, Everlast, Green Hill, Adidas, Nike, Rivals, Winning, STONEHEART
 - Categories: MMA, Boxing, Gloves, Muay Thai, Venum, Bags, F1 Clothing, STONEHEART, KS-BASKET, UFC T-Shirts, Shoes
-- Popular products: Venum Elite Boxing Gloves 110, Everlast 1910 Boxing Gloves 250, Adidas 221-HVC 2 320, Nike HyperKO 2 370, UFC Backpack 180, Compression Shorts 40, Asics Wrestling Shoes 215
+- Popular products: Venum Elite Boxing Gloves 110₾, Everlast 1910 Boxing Gloves 250₾, Adidas 221-HVC 2 320₾, Nike HyperKO 2 370₾, UFC Backpack 180₾, Compression Shorts 40₾, Asics Wrestling Shoes 215₾. Always use the ₾ symbol for prices, never write GEL.
 - Delivery time: minimum 10-12 business days, maximum 10-18 business days. Times may vary due to customs, holidays, or warehouse processing.
 - Size selection: customers should check the size chart on each product page. If unsure, contact our live support team for help before ordering.
 - Order tracking: contact our live support team directly for order updates and tracking info.
