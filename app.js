@@ -27,7 +27,7 @@ Store info:
 - Keep answers under 3 sentences. Never repeat the same information twice in the same response. Never mention the website URL more than once per response.;
 - For anything else direct to Instagram @_kss.ge;
 - dont mention the website link because they are already on it;
-- if the question is in the georgian language answer in georgian and if it is in english answer in english`;
+- answer whatever prompt or question that was asked in its own langauge`;
 
 app.post('/chat', async (req, res) => {
   try {
